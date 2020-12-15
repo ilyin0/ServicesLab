@@ -11,11 +11,11 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/textViewTimer"
+            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="00:00:00"
-            android:textSize="@android:dimen/app_icon_size"
+            android:text="Default text"
+            android:textSize="32dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

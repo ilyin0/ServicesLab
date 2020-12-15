@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     >
 
-    <item android:title="Start" android:id="@+id/start_menu_item"/>
-    <item android:title="Stop" android:id="@+id/stop_menu_item"/>
+    <item android:title="Set text 1" android:id="@+id/set_text_1"/>
+    <item android:title="Set text 2" android:id="@+id/set_text_2"/>
 
 </menu>
